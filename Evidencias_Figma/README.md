@@ -25,3 +25,4 @@ Figma Make AI.
 
 ## Enlace del prototipo
 [Ver prototipo de BiblioGest](https://www.figma.com/make/I2fa0UF6AFHJTP0enIGFzu/BiblioGest-Interface-Design?t=Kh635XUlzPdl6Hx9-1)
+[Ver prototipo de Web](https://essay-shout-94196502.figma.site/)
