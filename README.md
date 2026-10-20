@@ -1,21 +1,24 @@
-# BiblioGest - UNEMI
+# Evidencias de Jira – BiblioGest
 
 ## Descripción
-Sistema de Gestión de Préstamos de Libros de una Biblioteca.
+En esta carpeta se presentan las evidencias de la planificación y organización de las actividades del proyecto BiblioGest mediante Jira Software.
 
-Proyecto académico de Construcción de Software.
-
-## Gestión del proyecto
-Herramienta: Jira Software
-
-Metodología: Kanban
-
-Actividades registradas: 10
-
-Estados:
+## Metodología utilizada
+Se utilizó Kanban, organizando las diez tareas del proyecto en tres columnas:
 - Por hacer
 - En curso
 - Listo
 
-## Enlace del proyecto Jira
-[Consultar BiblioGest en Jira](https://construcciondesoftware.atlassian.net/jira/software/projects/BIB/boards/69?filter=&groupBy=none&atlOrigin=eyJpIjoiMDdkZmIxNTAzNzc4NDI5NDgyMjY5YTk0NjUyM2NiYjIiLCJwIjoiaiJ9)
+## Tablero Kanban
+![Tablero Kanban de BiblioGest](Tablero_Kanban.png)
+
+## Lista de actividades
+![Actividades y responsables](Lista_Actividades.png)
+
+## Carga de trabajo
+![Distribución de carga de trabajo](Carga_Trabajo.png)
+
+## Proyecto Jira
+[Consultar tablero BiblioGest](https://construcciondesoftware.atlassian.net/jira/software/projects/BIB/boards/69?filter=&groupBy=none&atlOrigin=eyJpIjoiMDdkZmIxNTAzNzc4NDI5NDgyMjY5YTk0NjUyM2NiYjIiLCJwIjoiaiJ9)
+
+Las capturas documentan el estado del proyecto en el momento de su realización.
