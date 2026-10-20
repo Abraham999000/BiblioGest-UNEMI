@@ -12,4 +12,4 @@ El prototipo BiblioGest fue diseñado en Figma Make para representar las princip
 - [Prototipo web publicado].(https://essay-shout-94196502.figma.site/).
 
 ### Evidencias
-Las capturas de las tres pantallas se encuentran en la carpeta.
+Las capturas de las tres pantallas se encuentran en la carpeta
