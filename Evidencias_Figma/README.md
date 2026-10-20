@@ -1,15 +1,27 @@
-## Prototipo del sistema en Figma Make
+# Evidencias de Figma – BiblioGest
 
-El prototipo BiblioGest fue diseñado en Figma Make para representar las principales interfaces del sistema de gestión de préstamos de libros.
+## Descripción
+En esta carpeta se encuentran las capturas de las tres pantallas principales del prototipo BiblioGest, desarrollado mediante Figma Make para la Práctica N.º 2 de Construcción de Software de la UNEMI.
 
-### Pantallas desarrolladas
-- Inicio de sesión.
-- Catálogo de libros disponibles.
-- Registro de préstamos.
+## Pantallas diseñadas
 
-### Enlaces
-- [Proyecto en Figma Make].(https://www.figma.com/make/I2fa0UF6AFHJTP0enIGFzu/BiblioGest-Interface-Design?t=gZhKD6WtALS54pOQ-1).
-- [Prototipo web publicado].(https://essay-shout-94196502.figma.site/).
+### 1. Inicio de sesión
+Interfaz para ingresar al sistema mediante usuario y contraseña, con validaciones de acceso simuladas.
 
-### Evidencias
-Las capturas de las tres pantallas se encuentran en la carpeta.
+![Inicio de sesión](Figma_Login.png)
+
+### 2. Catálogo de libros disponibles
+Pantalla que permite consultar y buscar libros, visualizar su información y comprobar su disponibilidad.
+
+![Catálogo de libros](Figma_Catalogo.png)
+
+### 3. Registro de préstamos
+Formulario para seleccionar un usuario y un libro, establecer las fechas y simular el registro del préstamo.
+
+![Registro de préstamo](Figma_registro.png)
+
+## Herramienta utilizada
+Figma Make AI.
+
+## Enlace del prototipo
+[Ver prototipo de BiblioGest](https://www.figma.com/make/I2fa0UF6AFHJTP0enIGFzu/BiblioGest-Interface-Design?t=Kh635XUlzPdl6Hx9-1)
